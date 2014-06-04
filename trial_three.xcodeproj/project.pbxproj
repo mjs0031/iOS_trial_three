@@ -21,6 +21,7 @@
 		0EF4B6B6193FC9F100DA1ADE /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0EF4B698193FC9F100DA1ADE /* UIKit.framework */; };
 		0EF4B6BE193FC9F100DA1ADE /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0EF4B6BC193FC9F100DA1ADE /* InfoPlist.strings */; };
 		0EF4B6C0193FC9F100DA1ADE /* trial_threeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0EF4B6BF193FC9F100DA1ADE /* trial_threeTests.m */; };
+		0EF4B6CA193FCE4A00DA1ADE /* twenty percent.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EF4B6C9193FCE4A00DA1ADE /* twenty percent.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		0EF4B6BB193FC9F100DA1ADE /* trial_threeTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "trial_threeTests-Info.plist"; sourceTree = "<group>"; };
 		0EF4B6BD193FC9F100DA1ADE /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0EF4B6BF193FC9F100DA1ADE /* trial_threeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = trial_threeTests.m; sourceTree = "<group>"; };
+		0EF4B6C9193FCE4A00DA1ADE /* twenty percent.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "twenty percent.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 		0EF4B69B193FC9F100DA1ADE /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				0EF4B6C9193FCE4A00DA1ADE /* twenty percent.png */,
 				0EF4B69C193FC9F100DA1ADE /* trial_three-Info.plist */,
 				0EF4B69D193FC9F100DA1ADE /* InfoPlist.strings */,
 				0EF4B6A0193FC9F100DA1ADE /* main.m */,
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0EF4B6AD193FC9F100DA1ADE /* Images.xcassets in Resources */,
+				0EF4B6CA193FCE4A00DA1ADE /* twenty percent.png in Resources */,
 				0EF4B69F193FC9F100DA1ADE /* InfoPlist.strings in Resources */,
 				0EF4B6A8193FC9F100DA1ADE /* Main.storyboard in Resources */,
 			);
